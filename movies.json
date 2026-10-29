@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Big Buck Bunny",
+        "description": "A giant rabbit takes revenge on a group of mischievous animals.",
+        "image": "images/Big_buck_bunny_poster_big.jpg",
+        "videoUrl": "https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4",
+        "duration": "9:56",
+        "year": 2008,
+        "genre": "Animation"
+    },
+    {
+        "id": 2,
+        "title": "Elephants Dream",
+        "description": "Two characters explore a strange and mysterious mechanical world.",
+        "image": "images/ElephantsDreamPoster.jpg",
+        "videoUrl": "https://vpro.openbeelden.nl/files/92/104101.ed_hd.mp4",
+        "duration": "10:53",
+        "year": 2006,
+        "genre": "Animation"
+    },
+    {
+        "id": 3,
+        "title": "Sintel",
+        "description": "A young woman searches for a dragon she has grown attached to.",
+        "image": "images/Sintel_poster.jpg",
+        "videoUrl": "https://archive.org/download/Sintel/sintel-2048-surround.mp4",
+        "duration": "14:48",
+        "year": 2010,
+        "genre": "Fantasy"
+    },
+    {
+        "id": 4,
+        "title": "Spring",
+        "description": "A shepherd girl and her dog encounter mysterious ancient spirits in a magical mountain landscape.",
+        "image": "images/spring.jpg",
+        "videoUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Spring_-_Blender_Open_Movie.webm",
+        "duration": "7:44",
+        "year": 2019,
+        "genre": "Fantasy"
+    },
+    {
+        "id": 5,
+        "title": "Caminandes: Gran Dillama",
+        "description": "A hungry llama faces unexpected challenges while trying to enjoy a tasty snack in the wilderness.",
+        "image": "images/caminandes.jpg",
+        "videoUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Caminandes%2C_Gran_Dillama_-_Blender_Foundation.webm",
+        "duration": "2:26",
+        "year": 2013,
+        "genre": "Comedy"
+    },
+    {
+        "id": 6,
+        "title": "Glass Half",
+        "description": "Two art critics passionately debate the paintings they see in a gallery, with hilarious results.",
+        "image": "images/glass-half.jpg",
+        "videoUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Glass_Half_-_Blender_Open_Movie-full_movie.webm",
+        "duration": "3:13",
+        "year": 2015,
+        "genre": "Comedy"
+    },
+    {
+        "id": 7,
+        "title": "Caminandes: Llamigos",
+        "description": "Koro the llama and Oti the penguin compete for food in a funny Patagonian adventure.",
+        "image": "images/caminandes-llamigos.png",
+        "videoUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm",
+        "duration": "2:30",
+        "year": 2016,
+        "genre": "Comedy"
+    },
+    {
+        "id": 8,
+        "title": "Cosmos Laundromat: First Cycle",
+        "description": "A sheep meets an unusual salesman who offers him the chance to change his life.",
+        "image": "images/cosmos-laundromat.jpg",
+        "videoUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cosmos_Laundromat_-_First_Cycle_-_Official_Blender_Foundation_release.webm",
+        "duration": "12:11",
+        "year": 2015,
+        "genre": "Fantasy"
+    }
+]

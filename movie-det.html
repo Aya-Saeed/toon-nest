@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ToonNext</title>
+
+    <link rel="icon" type="image/png" href="images/logo2.jpg">
+
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        body {
+            visibility: hidden;
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav class="navbar">
+        <div class="navbar-container">
+
+            <a href="movies.html" class="logo">
+                ToonNest
+            </a>
+
+            <div class="navbar-actions">
+
+                <input type="text" id="search-input" placeholder="Search cartoons...">
+
+                <button id="logout-btn" class="logout-btn">
+                    Logout
+                </button>
+
+            </div>
+
+        </div>
+    </nav>
+
+    <main class="movie-details">
+
+        <section class="movie-info">
+
+            <div class="movie-poster">
+                <img id="movie-poster" src="" alt="">
+            </div>
+
+            <div id="movie-details"></div>
+
+        </section>
+
+        <p id="movie-loading" hidden>
+            Loading movie...
+        </p>
+
+        <p id="movie-error" hidden>
+            Movie not found or failed to load movie details.
+        </p>
+
+        <p id="video-error" hidden>
+            Failed to load video. Please try again later.
+        </p>
+
+        <section class="movie-video">
+            <video id="movie-video" controls>
+                <source id="video-source" src="" type="video/mp4">
+            </video>
+        </section>
+
+    </main>
+
+
+    <footer class="site-footer">
+        <p>© 2026 All rights reserved | Eng: Aya Saeed</p>
+    </footer>
+
+
+    <script src="js/api.js"></script>
+    <script src="js/auth-guard.js"></script>
+    <script src="js/movie-det.js"></script>
+
+</body>
+
+</html>
